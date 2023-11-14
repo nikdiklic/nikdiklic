@@ -1,7 +1,7 @@
 ### Hi there 👋 
 #### You can call me Dile
 
-#### 🔭 I’m currently working as a Frontend Developer @ <a href="https://motionops.com" alt="Simple Software for Service Companies">MotionOps</a>
+🔭 I’m currently working as a Frontend Developer @ [MotionOps](https://motionops.com)
 
 - React / React Native developer
 - Debugging Doctor
