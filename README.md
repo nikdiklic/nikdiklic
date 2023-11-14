@@ -1,14 +1,13 @@
 ### Hi there 👋 
 #### You can call me Dile
 
+#### 🔭 I’m currently working as a Frontend Developer @ <a href="https://motionops.com" alt="Simple Software for Service Companies">MotionOps</a>
 
-- 🔭 I’m currently working as a Frontend Developer @ <a href="https://motionops.com" alt="Simple Software for Service Companies">MotionOps</a>
-
-React / React Native developer
-Debugging Doctor
-ES6+ Expert
-Git Guru
-MENSA member
+- React / React Native developer
+- Debugging Doctor
+- ES6+ Expert
+- Git Guru
+- MENSA member
 
 <!--
 **nikdiklic/nikdiklic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
